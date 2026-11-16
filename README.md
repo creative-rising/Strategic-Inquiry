@@ -16,9 +16,9 @@ The lenses are not a rigid sequence. The original framing or proposed use of AI 
 
 ## QT Qonference 2026 participant resource
 
-The repository is being prepared to include a one-page resource accompanying **Who Gets to Define the Problem? Power, Participation & Strategic Inquiry in AI Decisions**, a QT Qonference 2026 Quickie.
+The repository includes a one-page resource accompanying **Who Gets to Define the Problem? Power, Participation & Strategic Inquiry in AI Decisions**, a QT Qonference 2026 Quickie.
 
-- [Participant resource (PDF — upload pending)](resources/strategic-inquiry-qtq26.pdf)
+- [Participant resource (PDF)](Strategic-Inquiry-QTQ26-Participant-Resource.pdf)
 - [View the GitHub Pages landing page source](index.html)
 
 The publicly accessible landing page is intended to be hosted with GitHub Pages after it is enabled in repository settings.
